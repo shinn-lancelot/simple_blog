@@ -4,6 +4,10 @@
 
 ### 如何启动
 
-1. 启动服务 python manage.py runserver
+1. 启动服务
+
+    ```
+        $ python manage.py runserver
+    ```
 
 2. 后台帐密（admin，admin123456）
