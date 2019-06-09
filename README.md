@@ -1,5 +1,9 @@
-# a simple blog （需要python3环境）
+## simple_blog
 
-#### 启动服务 python manage.py runserver
+> A simple blog. 一个简易博客。
 
-#### 后台帐密（admin，admin123456）
+### 如何启动
+
+1. 启动服务 python manage.py runserver
+
+2. 后台帐密（admin，admin123456）
